@@ -14,4 +14,5 @@ yarn install
 ```
 
 #### Step 2
-Done. Open index.html in your browser or use any webhosting.
+Done.
+Use any webhosting or [`http-server`](https://www.npmjs.com/package/http-server) module 
