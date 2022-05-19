@@ -1,0 +1,12 @@
+{
+  "name": "NetworkSteal",
+  "version": "1.0.0",
+  "description": "Simple website with powershell script builder for stealing wifi passwords from devices with Windows os",
+  "main": "index.js",
+  "repository": "https://github.com/Rawiros/network-steal",
+  "author": "Rawir",
+  "dependencies": {
+    "file-saver": "^2.0.5",
+    "jszip": "^3.9.1"
+  }
+}
